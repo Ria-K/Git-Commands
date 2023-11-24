@@ -1,7 +1,10 @@
 git
 
+$ git config --global user.email "abc@xyz.com"
+$ git config --global user.name "abc.xyz"
 
-1 . git init 					//initialize git
+
+git init 					//initialize git
 git add .					//adds everything to "staging" state
 git add index.html 				//adds only index.html
 git commit -m 'i did xyz and zyx' 		//saves commits changes along with message
