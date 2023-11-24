@@ -1,0 +1,23 @@
+git
+
+
+1 . git init 					//initialize git
+git add .					//adds everything to "staging" state
+git add index.html 				//adds only index.html
+git commit -m 'i did xyz and zyx' 		//saves commits changes along with message
+
+git rm filename				// remove/delete file
+git log 					//shows time and msg all git done
+
+copy commit hashcode from log and write:
+git checkout copiedhashcodeashcodekdjkffsjkd
+
+					//it'll switch to that state and you can see your previous progress n files at that time
+
+
+
+****************************************************************
+
+git branch					//shows all branches so far - master is default
+
+
