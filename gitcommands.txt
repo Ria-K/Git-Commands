@@ -21,6 +21,6 @@ git checkout copiedhashcodeashcodekdjkffsjkd
 
 ****************************************************************
 
-git branch					//shows all branches so far - master is default
+git branch -M main			//shows all branches so far - main is default
 
-
+git remote rm origin 			// if remote origin already exists, then remove origin and add again
